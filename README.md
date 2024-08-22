@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arun-1102/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [3379-score-of-a-string](https://github.com/Arun-1102/Leet-Code/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
