@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arun-1102/Leet-Code/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/Arun-1102/Leet-Code/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Arun-1102/Leet-Code/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
