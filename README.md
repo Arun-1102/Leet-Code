@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arun-1102/Leet-Code/tree/master/0001-two-sum) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Arun-1102/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Arun-1102/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arun-1102/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Arun-1102/Leet-Code/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Arun-1102/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
 |  |
 | ------- |
