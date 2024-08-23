@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arun-1102/Leet-Code/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arun-1102/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arun-1102/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Arun-1102/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arun-1102/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Arun-1102/Leet-Code/tree/master/3379-score-of-a-string) |
