@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arun-1102/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Arun-1102/Leet-Code/tree/master/1205-defanging-an-ip-address) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 ## Simulation
 |  |
