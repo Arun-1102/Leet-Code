@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Arun-1102/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arun-1102/Leet-Code/tree/master/0009-palindrome-number) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Arun-1102/Leet-Code/tree/master/2556-convert-the-temperature) |
