@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arun-1102/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Arun-1102/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arun-1102/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Arun-1102/Leet-Code/tree/master/1205-defanging-an-ip-address) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Arun-1102/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arun-1102/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Arun-1102/Leet-Code/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arun-1102/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
@@ -64,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Arun-1102/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Arun-1102/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
