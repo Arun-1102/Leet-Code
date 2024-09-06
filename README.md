@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arun-1102/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arun-1102/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arun-1102/Leet-Code/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Arun-1102/Leet-Code/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arun-1102/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arun-1102/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Arun-1102/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arun-1102/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Arun-1102/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Arun-1102/Leet-Code/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Arun-1102/Leet-Code/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Arun-1102/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
