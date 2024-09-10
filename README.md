@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arun-1102/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arun-1102/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Arun-1102/Leet-Code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Arun-1102/Leet-Code/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Arun-1102/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arun-1102/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arun-1102/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arun-1102/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Arun-1102/Leet-Code/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Arun-1102/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arun-1102/Leet-Code/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Arun-1102/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arun-1102/Leet-Code/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Arun-1102/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Arun-1102/Leet-Code/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-1102/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Arun-1102/Leet-Code/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
