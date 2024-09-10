@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Arun-1102/Leet-Code/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arun-1102/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arun-1102/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Arun-1102/Leet-Code/tree/master/0136-single-number) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Arun-1102/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arun-1102/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Arun-1102/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arun-1102/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arun-1102/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Arun-1102/Leet-Code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
