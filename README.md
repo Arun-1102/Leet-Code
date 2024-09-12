@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arun-1102/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Arun-1102/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Arun-1102/Leet-Code/tree/master/0067-add-binary) |
 | [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Arun-1102/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Arun-1102/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Arun-1102/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Arun-1102/Leet-Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Arun-1102/Leet-Code/tree/master/0067-add-binary) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Arun-1102/Leet-Code/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Arun-1102/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arun-1102/Leet-Code/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/Arun-1102/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arun-1102/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arun-1102/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arun-1102/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arun-1102/Leet-Code/tree/master/0136-single-number) |
 ## String Matching
 |  |
