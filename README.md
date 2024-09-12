@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arun-1102/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Arun-1102/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/Arun-1102/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Arun-1102/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
