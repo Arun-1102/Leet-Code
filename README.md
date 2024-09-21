@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Arun-1102/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arun-1102/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arun-1102/Leet-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Arun-1102/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Arun-1102/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Arun-1102/Leet-Code/tree/master/2556-convert-the-temperature) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Arun-1102/Leet-Code/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arun-1102/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arun-1102/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
