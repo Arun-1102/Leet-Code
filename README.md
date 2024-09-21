@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arun-1102/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Arun-1102/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arun-1102/Leet-Code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Arun-1102/Leet-Code/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Arun-1102/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Arun-1102/Leet-Code/tree/master/2556-convert-the-temperature) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-1102/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Arun-1102/Leet-Code/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
