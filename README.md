@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arun-1102/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Arun-1102/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arun-1102/Leet-Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arun-1102/Leet-Code/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Arun-1102/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arun-1102/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Arun-1102/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arun-1102/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Arun-1102/Leet-Code/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Arun-1102/Leet-Code/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Arun-1102/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Arun-1102/Leet-Code/tree/master/2556-convert-the-temperature) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arun-1102/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arun-1102/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arun-1102/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Arun-1102/Leet-Code/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
