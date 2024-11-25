@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Arun-1102/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Arun-1102/Leet-Code/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Arun-1102/Leet-Code/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Arun-1102/Leet-Code/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/Arun-1102/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Arun-1102/Leet-Code/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Arun-1102/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Arun-1102/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Arun-1102/Leet-Code/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Arun-1102/Leet-Code/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Arun-1102/Leet-Code/tree/master/1086-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Arun-1102/Leet-Code/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Arun-1102/Leet-Code/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Arun-1102/Leet-Code/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
