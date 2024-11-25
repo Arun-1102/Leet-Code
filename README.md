@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Arun-1102/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Arun-1102/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arun-1102/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Arun-1102/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Arun-1102/Leet-Code/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Arun-1102/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Arun-1102/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arun-1102/Leet-Code/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Arun-1102/Leet-Code/tree/master/0338-counting-bits) |
 ## String Matching
 |  |
 | ------- |
